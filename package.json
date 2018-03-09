@@ -1,0 +1,14 @@
+{
+  "name": "query_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Manuel <manuel@bigchaindb.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.4"
+  }
+}
